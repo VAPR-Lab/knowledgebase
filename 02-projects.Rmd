@@ -1,0 +1,10 @@
+# Projects {#projects}
+
+Some of the VAPR Lab's projects include^[Project updates and announcements can be found on the [VAPR Lab website](https://VAPR-Lab.github.io/website/)]:
+
+## Project 1
+
+## Project 2
+
+## Project 3
+
