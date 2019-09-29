@@ -1,8 +1,8 @@
 --- 
 title: "VAPR Lab Knowledge Base"
 subtitle: "Virtual Applied Praxis and Research Lab"
-author: "Ryan Straight"
-date: "`r Sys.Date()`"
+#author: "Ryan Straight"
+#date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: memoir
 bibliography: [book.bib]
@@ -21,7 +21,7 @@ github-repo: VAPR-Lab/knowledgebase
 cover-image: "images/VAPR-brand-banner.png"
 ---
 
-# Preface {-}
+# Virtual Applied Praxis and Research Lab {-}
 
 `r knitr::include_graphics(rep("images/VAPR-brand-banner.png", out.width = '100%'))`
 
