@@ -1,0 +1,30 @@
+--- 
+title: "VAPR Lab Knowledge Base"
+author: "Ryan Straight"
+date: "`r Sys.Date()`"
+knit: "bookdown::render_book"
+documentclass: memoir
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+site: bookdown::bookdown_site
+description: "The VAPR Lab Knowledge Base"
+url: 'https\://VAPR-Lab.github.io/knowledgebase/'
+github-repo: rstudio/bookdown
+#cover-image: images/cover.jpg
+---
+
+# Preface {-}
+
+This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge.
+
+## Why use this format? {-}
+
+The VAPR Lab exists across many different platforms. This knowledge base will serve as a means of organizing, introducing, and maintaining those platforms.
+
