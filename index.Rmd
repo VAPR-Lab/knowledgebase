@@ -25,29 +25,39 @@ cover-image: "images/VAPR-brand-banner.png"
 
 `r knitr::include_graphics(rep("images/VAPR-brand-banner.png", out.width = '100%'))`
 
-This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge. This is a long-form document that goes into great detail about VAPR Lab's practices, methodology, and production. For more public-facing updates and content, visit [the VAPR Lab website](https://VAPR-Lab.github.io/website).
+This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge. This is a long-form document that goes into great detail about VAPR Lab's practices, methodology, and production. For more public-facing updates and content, visit [the VAPR Lab website](https://VAPR-Lab.github.io/vapr-website).
 
-## History {-}
+## About {-}
 
 The VAPR Lab is the brainchild of Dr. Ryan Straight and Dr. Kyle DiRoberto in the College of Applied Science and Technology at the University of Arizona.
 
+### History
+
 It came about in late 2019 as a collaborate effort for them to work together more and discover ways their disparate fields could not only inform one another's, but to support the work of students and more.
 
-## Mission {-}
+### What is _praxis_?
+
+_Praxis_ as we refer to it can be [defined as](https://en.wikipedia.org/wiki/Praxis_(process))
+
+>the process by which a theory, lesson, or skill is enacted, embodied, or realized [and] the act of engaging, applying, exercising, realizing, or practicing ideas.
+
+We are a group of people that have some pretty off-the-wall through evidence-based ideas and the VAPR Lab is the place where we can bring them to reality.
+
+### Mission
 The primary mission of the VAPR Lab is to develop human-focused ideas through technology, transparency, and care.
 
-
-## Vision {-}
+### Vision
 Manifested in the nexus of research, evidence-based pedagogy, and boundary-pushing ideas, the VAPR Lab will act as a space for chances to be taken, brilliance to be realized, and people to come together.
 
-## Values {-}
+### Values
 The VAPR Lab's vision is one of transparency, openness, and optimism. At all possible times, we believe knowledge should be not just presented publicly but _developed_ there, as well. We are humans. We make mistakes and we want to make them in public so others may learn. We make those on our way to create great things and help build a better future for everyone.
+
+### Why use this format?
+
+The VAPR Lab exists across many different platforms. This knowledge base will serve as a means of organizing, introducing, and maintaining those platforms. The [Bookdown](https://bookdown.org) format was chosen for its speed, accessibility, replicability, and ease of use. Special thanks to [Yuhui Xie](https://yihui.name/) for making such a wonderful package.
+
 
 ## Acknowledgements {-}
 
 The VAPR Lab would not exist without a number of people and myriad fortunate circumstances. Here is a very brief list of those the founders would like to thank:
 
-
-## Why use this format? {-}
-
-The VAPR Lab exists across many different platforms. This knowledge base will serve as a means of organizing, introducing, and maintaining those platforms. The [Bookdown](https://bookdown.org) format was chosen for its speed, accessibility, replicability, and ease of use. Special thanks to [Yuhui Xie](https://yihui.name/) for making such a wonderful package.
