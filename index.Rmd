@@ -1,6 +1,6 @@
 --- 
 title: "VAPR Lab Knowledge Base"
-subtitle: "Virtual Applied Praxis and Research Lab"
+#subtitle: "Virtual Applied Praxis and Research Lab"
 #author: "Ryan Straight"
 #date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
