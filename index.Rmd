@@ -21,7 +21,7 @@ github-repo: VAPR-Lab/knowledgebase
 cover-image: "images/VAPR-brand-banner.png"
 ---
 
-# Preface {-}{#preface}
+# Preface {-}
 
 `r knitr::include_graphics(rep("images/VAPR-brand-banner.png", out.width = '100%'))`
 
@@ -39,4 +39,8 @@ It came about in...
 
 ## Sponsorship and Funding {-}
 
-The VAPR Lab is funded by...
+The VAPR Lab is funded by... 
+
+## Acknowledgements {-}
+
+Acknowledgements go here.
