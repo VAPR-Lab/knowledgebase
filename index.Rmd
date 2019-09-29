@@ -4,7 +4,7 @@ author: "Ryan Straight"
 date: "`r Sys.Date()`"
 knit: "bookdown::render_book"
 documentclass: memoir
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 colorlinks: yes
