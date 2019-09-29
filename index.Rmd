@@ -18,10 +18,12 @@ site: bookdown::bookdown_site
 description: "The VAPR Lab Knowledge Base"
 url: 'https\://VAPR-Lab.github.io/knowledgebase/'
 github-repo: VAPR-Lab/knowledgebase
-cover-image: images/VAPR-brand-banner.png
+cover-image: "images/VAPR-brand-banner.png"
 ---
 
-# Preface {-}
+# Preface {-}{#preface}
+
+`r knitr::include_graphics(rep("images/VAPR-brand-banner.png", out.width = '100%'))`
 
 This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge.
 
