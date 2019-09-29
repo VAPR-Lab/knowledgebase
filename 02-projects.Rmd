@@ -1,5 +1,7 @@
 # Projects {#projects}
 
+To adhere to our vision of transparency and openness when at all possible, here is a list of the current, past, and proposed projects undertaken in the VAPR Lab.
+
 Some of the VAPR Lab's projects include^[Project updates and announcements can be found on the [VAPR Lab website](https://VAPR-Lab.github.io/website/)]:
 
 ## Project 1

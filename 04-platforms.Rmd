@@ -1,0 +1,9 @@
+# Platforms {#platforms}
+
+As the VAPR Lab is entirely virtual (ie, lives online and has no physical space), choosing platforms for interaction, ideation, storage, et cetera, is key. This section explains which platforms have been chosen for what and best practices for using them.
+
+## Communication
+
+Internal communication between VAPR Lab members may sometimes contain information or references to proprietary content or private financial details. For this reason, [Keybase](https://keybase.io) is the communication platform of choice. 
+
+If you wish to join the VAPR Lab Keybase team, contact [Dr. Straight](https://keybase.io/ryanstraight).
