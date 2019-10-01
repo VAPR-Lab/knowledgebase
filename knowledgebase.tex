@@ -1,0 +1,242 @@
+\documentclass[12pt,]{memoir}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+    \setmonofont[Mapping=tex-ansi,Scale=0.7]{Source Code Pro}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+\hypersetup{unicode=true,
+            pdftitle={VAPR Lab Knowledge Base},
+            colorlinks=true,
+            linkcolor=Maroon,
+            citecolor=Blue,
+            urlcolor=Blue,
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{VAPR Lab Knowledge Base}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+    \date{}
+    \predate{}\postdate{}
+  
+\usepackage{booktabs}
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\listoftables
+\listoffigures
+\hypertarget{virtual-applied-praxis-and-research-lab}{%
+\chapter*{Virtual Applied Praxis and Research Lab}\label{virtual-applied-praxis-and-research-lab}}
+\addcontentsline{toc}{chapter}{Virtual Applied Praxis and Research Lab}
+
+\includegraphics[width=30in]{images/VAPR-brand-banner}
+
+This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge. This is a long-form document that goes into great detail about VAPR Lab's practices, methodology, and production. For more public-facing updates and content, visit \href{https://VAPR-Lab.github.io/vapr-website}{the VAPR Lab website}.
+
+\hypertarget{about}{%
+\section*{About}\label{about}}
+\addcontentsline{toc}{section}{About}
+
+The VAPR Lab is the brainchild of Dr.~Ryan Straight and Dr.~Kyle DiRoberto in the College of Applied Science and Technology at the University of Arizona.
+
+\hypertarget{history}{%
+\subsection*{History}\label{history}}
+\addcontentsline{toc}{subsection}{History}
+
+It came about in late 2019 as a collaborate effort for them to work together more and discover ways their disparate fields could not only inform one another's, but to support the work of students and more.
+
+\hypertarget{what-is-praxis}{%
+\subsection*{\texorpdfstring{What is \emph{praxis}?}{What is praxis?}}\label{what-is-praxis}}
+\addcontentsline{toc}{subsection}{What is \emph{praxis}?}
+
+\emph{Praxis} as we refer to it can be \href{https://en.wikipedia.org/wiki/Praxis_(process)}{defined as}
+
+\begin{quote}
+the process by which a theory, lesson, or skill is enacted, embodied, or realized {[}and{]} the act of engaging, applying, exercising, realizing, or practicing ideas.
+\end{quote}
+
+We are a group of people that have some pretty off-the-wall though evidence-based ideas and the VAPR Lab is the place where we can bring them to reality.
+
+\hypertarget{mission}{%
+\subsection*{Mission}\label{mission}}
+\addcontentsline{toc}{subsection}{Mission}
+
+The primary mission of the VAPR Lab is to develop human-focused ideas through technology, transparency, and care.
+
+\hypertarget{vision}{%
+\subsection*{Vision}\label{vision}}
+\addcontentsline{toc}{subsection}{Vision}
+
+Manifested in the nexus of research, evidence-based pedagogy, and boundary-pushing ideas, the VAPR Lab will act as a space for chances to be taken, brilliance to be realized, and people to come together.
+
+\hypertarget{values}{%
+\subsection*{Values}\label{values}}
+\addcontentsline{toc}{subsection}{Values}
+
+The VAPR Lab's vision is one of transparency, openness, and optimism. At all possible times, we believe knowledge should be not just presented publicly but \emph{developed} there, as well. We are humans. We make mistakes and we want to make them in public so others may learn. We make those on our way to create great things and help build a better future for everyone.
+
+\hypertarget{why-use-this-format}{%
+\subsection*{Why use this format?}\label{why-use-this-format}}
+\addcontentsline{toc}{subsection}{Why use this format?}
+
+The VAPR Lab exists across many different platforms. This knowledge base will serve as a means of organizing, introducing, and maintaining those platforms. The \href{https://bookdown.org}{Bookdown} format was chosen for its speed, accessibility, replicability, and ease of use. Special thanks to \href{https://yihui.name/}{Yuhui Xie} for making such a wonderful package.
+
+\hypertarget{acknowledgements}{%
+\section*{Acknowledgements}\label{acknowledgements}}
+\addcontentsline{toc}{section}{Acknowledgements}
+
+The VAPR Lab would not exist without a number of people and myriad fortunate circumstances. Here is a very brief list of those the founders would like to thank:
+
+\hypertarget{people}{%
+\chapter{People}\label{people}}
+
+The VAPR Lab is people-driven. We believe in openness, transparency, and true interdisciplinary collaboration.
+
+\hypertarget{founders}{%
+\section{Founders}\label{founders}}
+
+\textbf{Dr.~Ryan Straight}
+
+\begin{quote}
+Info about Ryan
+\end{quote}
+
+\textbf{Dr.~Kyle DiRoberto}
+
+\begin{quote}
+Info about Kyle
+\end{quote}
+
+\hypertarget{members}{%
+\section{Members}\label{members}}
+
+(Different name for this section, perhaps?)
+
+Person 1\ldots{}
+
+Person 2\ldots{}
+
+\hypertarget{support-staff}{%
+\section{Support Staff}\label{support-staff}}
+
+Any support staff that help with logistics, etc., but don't perhaps do any research or building.
+
+\hypertarget{advisors}{%
+\section{Advisors}\label{advisors}}
+
+People that are only involved on the idea-level, perhaps?
+
+\hypertarget{projects}{%
+\chapter{Projects}\label{projects}}
+
+To adhere to our vision of transparency and openness when at all possible, here is a list of the current, past, and proposed projects undertaken in the VAPR Lab.
+
+Some of the VAPR Lab's projects include\footnote{Project updates and announcements can be found on the \href{https://VAPR-Lab.github.io/website/}{VAPR Lab website}}:
+
+\hypertarget{project-1}{%
+\section{Project 1}\label{project-1}}
+
+\hypertarget{project-2}{%
+\section{Project 2}\label{project-2}}
+
+\hypertarget{project-3}{%
+\section{Project 3}\label{project-3}}
+
+\hypertarget{funding}{%
+\chapter{Sponsorship and Funding}\label{funding}}
+
+In order to maintain our goal of transparency and openness, this section plainly states the sources of our sponsorship and funding.
+
+Currently the VAPR Lab is seeking funding for the 2020-21 academic year and beyond.
+
+\hypertarget{platforms}{%
+\chapter{Platforms}\label{platforms}}
+
+As the VAPR Lab is entirely virtual (ie, lives online and has no physical space), choosing platforms for interaction, ideation, storage, et cetera, is key. This section explains which platforms have been chosen for what and best practices for using them.
+
+\hypertarget{communication}{%
+\section{Communication}\label{communication}}
+
+Internal communication between VAPR Lab members may sometimes contain information or references to proprietary content or private financial details. For this reason, \href{https://keybase.io}{Keybase} is the communication platform of choice.
+
+If you wish to join the VAPR Lab Keybase team, contact \href{https://keybase.io/ryanstraight}{Dr.~Straight}.
+
+\bibliography{book.bib}
+
+
+\end{document}
