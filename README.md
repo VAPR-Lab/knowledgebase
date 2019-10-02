@@ -23,4 +23,6 @@ bookdown::render_book("index.Rmd", "bookdown::epub_book")
 
 This is an ongoing and unfinished work of passion!
 
-<a name="footnote1">1</a>: Note the lack of the word *synergy*. Terrible word. 
+<hr>
+
+<small><a name="footnote1">1</a>: Note the lack of the word *synergy*. Terrible word.</small>
