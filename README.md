@@ -51,4 +51,4 @@ This is an ongoing and unfinished work of passion!
 
 <hr>
 
-<span style="font-size: smaller;"><a name="footnote1">1</a>: Note the lack of the word *synergy*. Terrible word.</small></span>
+<sub><a name="footnote1">1</a>: Note the lack of the word *synergy*. Terrible word.</sub>
