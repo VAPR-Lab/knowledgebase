@@ -1,4 +1,4 @@
-# VAPR Lab Knowledge Base
+## VAPR Lab Knowledge Base
 
 <h1 align="center">
   <br>![Banner](images/VAPR-brand-banner.png)
@@ -8,9 +8,9 @@
 
 This "lab," for lack of a better word, lives online and serves as a place for like-minded explorers to pool their interests and skills, creating work and products that could never have arisen in silos.^[Note the lack of the word *synergy*. Terrible word.] 
 
-# How Tos
+## How Tos
 
-## Knitting/publishing
+### Knitting/publishing
 
 This is constructed using the [Bookdown](https://bookdown.org) package. The following console commands are used to easily built the book in HTML, PDF, and ePub formats simultaneously.
 
