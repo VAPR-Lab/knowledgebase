@@ -1,4 +1,4 @@
-# Build all three types of the book at once
+# Build all book types at once
 bookdown::render_book("index.Rmd", "bookdown::gitbook")
 #bookdown::render_book("index.Rmd", "bookdown::pdf_book")
-bookdown::render_book("index.Rmd", "bookdown::epub_book")
+#bookdown::render_book("index.Rmd", "bookdown::epub_book")
