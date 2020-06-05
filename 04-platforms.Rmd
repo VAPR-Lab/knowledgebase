@@ -6,4 +6,4 @@ As the VAPR Lab is entirely virtual (ie, lives online and has no physical space)
 
 Internal communication between VAPR Lab members may sometimes contain information or references to proprietary content or private financial details. For this reason, [Keybase](https://keybase.io) is the communication platform of choice. 
 
-If you wish to join the VAPR Lab Keybase team, contact [Dr. Straight](https://keybase.io/ryanstraight).
+If you wish to join the VAPR Lab Keybase team, first [install Keybase](https://keybase.io/download) and then contact [Dr. Straight](https://keybase.io/ryanstraight).

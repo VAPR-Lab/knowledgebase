@@ -27,7 +27,7 @@ cover-image: "images/VAPR-brand-banner.png"
 
 This ever-expanding resource is meant to serve as a home base for VAPR Lab knowledge. This is a long-form document that goes into great detail about VAPR Lab's practices, methodology, and production. For more public-facing updates and content, visit [the VAPR Lab website](https://VAPR-Lab.github.io/vapr-website).
 
-## About {-}
+### About {-}
 
 The VAPR Lab is the brainchild of Dr. Ryan Straight and Dr. Kyle DiRoberto in the College of Applied Science and Technology at the University of Arizona.
 
@@ -57,7 +57,7 @@ The VAPR Lab's vision is one of transparency, openness, and optimism. At all pos
 The VAPR Lab exists across many different platforms. This knowledge base will serve as a means of organizing, introducing, and maintaining those platforms. The [Bookdown](https://bookdown.org) format was chosen for its speed, accessibility, replicability, and ease of use. Special thanks to [Yuhui Xie](https://yihui.name/) for making such a wonderful package.
 
 
-## Acknowledgements {-}
+### Acknowledgements {-}
 
 The VAPR Lab would not exist without a number of people and myriad fortunate circumstances. Here is a very brief list of those the founders would like to thank:
 

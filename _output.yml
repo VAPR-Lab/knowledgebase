@@ -8,7 +8,7 @@ bookdown::gitbook:
         <li><a href="https://VAPR-Lab.github.io/vapr-website/">Return to VAPR Lab</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with Bookdown</a></li>
-    download: ["pdf", "epub"]
+#    download: ["pdf", "epub"]
     toolbar:
       position: float
     sharing:
