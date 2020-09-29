@@ -11,6 +11,7 @@
 ["project-3.html", "2.3 Project 3", " 2.3 Project 3 "],
 ["funding.html", "Chapter 3 Sponsorship and Funding", " Chapter 3 Sponsorship and Funding In order to maintain our goal of transparency and openness, this section plainly states the sources of our sponsorship and funding. Currently the VAPR Lab is seeking funding for the 2020-21 academic year and beyond. "],
 ["platforms.html", "Chapter 4 Platforms", " Chapter 4 Platforms As the VAPR Lab is entirely virtual (ie, lives online and has no physical space), choosing platforms for interaction, ideation, storage, et cetera, is key. This section explains which platforms have been chosen for what and best practices for using them. "],
-["communication.html", "4.1 Communication", " 4.1 Communication Internal communication between VAPR Lab members may sometimes contain information or references to proprietary content or private financial details. For this reason, Keybase is the communication platform of choice. If you wish to join the VAPR Lab Keybase team, first install Keybase and then contact Dr. Straight. "],
+["hosting.html", "4.1 Hosting", " 4.1 Hosting Hosting for VAPR Lab projects is typically done here, on GitHub, for a variety of reasons like accountability, transparency, and the historical nature of what are often iterative projects. "],
+["communication.html", "4.2 Communication", " 4.2 Communication Internally, as the VAPR Lab is a CAST entity, daily communication about the lab occurs in the college’s Microsoft Team. "],
 ["references.html", "References", " References "]
 ]

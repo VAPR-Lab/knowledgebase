@@ -2,8 +2,11 @@
 
 As the VAPR Lab is entirely virtual (ie, lives online and has no physical space), choosing platforms for interaction, ideation, storage, et cetera, is key. This section explains which platforms have been chosen for what and best practices for using them.
 
+## Hosting
+
+Hosting for VAPR Lab projects is typically done here, on GitHub, for a variety of reasons like accountability, transparency, and the historical nature of what are often iterative projects.
+
+
 ## Communication
 
-Internal communication between VAPR Lab members may sometimes contain information or references to proprietary content or private financial details. For this reason, [Keybase](https://keybase.io) is the communication platform of choice. 
-
-If you wish to join the VAPR Lab Keybase team, first [install Keybase](https://keybase.io/download) and then contact [Dr. Straight](https://keybase.io/ryanstraight).
+Internally, as the VAPR Lab is a CAST entity, daily communication about the lab occurs in the college's Microsoft Team. 
